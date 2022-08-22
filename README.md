@@ -1,2 +1,2 @@
 # Java-React
-This repository contains Software Archtitechure process.
+This repository contains the Software Archtitechure process.
